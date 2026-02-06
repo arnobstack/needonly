@@ -1,0 +1,15 @@
+{
+    "maxplayers" : 500,
+    "name" : "🔶 Emperor Roleplay | Server: US | discord.gg/gta5emperor", 
+    "gamemode" : "roleplay",
+    "language" : "en",
+    "stream-distance" : 500,
+    "announce" :  true,
+    "fqdn": "rage.gta5emerald.com",
+    "csharp" : "disabled",
+    "port": 22005,
+    "bind": "0.0.0.0",
+    "allow-cef-debugging": true,
+    "voice-chat": true,
+    "voice-chat-sample-rate": 48000
+}

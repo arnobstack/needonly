@@ -1,0 +1,522 @@
+20.03.2024 15:26:09	RoC is exiting; graceful shutdown.
+21.03.2024 1:26:43	The current Windows session is about to end. Application monitoring stopped.
+21.03.2024 1:57:27	C:\xclusive_server\ragemp-server.exe is not running
+21.03.2024 1:57:27	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.03.2024 1:57:27	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.03.2024 1:57:28	C:\xclusive_server\ragemp-server.exe has recovered
+21.03.2024 2:05:47	C:\xclusive_server\ragemp-server.exe is not running
+21.03.2024 2:05:47	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.03.2024 2:05:47	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.03.2024 2:05:49	C:\xclusive_server\ragemp-server.exe has recovered
+21.03.2024 2:08:16	C:\xclusive_server\ragemp-server.exe is not running
+21.03.2024 2:08:16	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.03.2024 2:08:16	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.03.2024 2:08:18	C:\xclusive_server\ragemp-server.exe has recovered
+21.03.2024 2:13:50	C:\xclusive_server\ragemp-server.exe is not running
+21.03.2024 2:13:50	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.03.2024 2:13:50	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.03.2024 2:13:51	C:\xclusive_server\ragemp-server.exe has recovered
+21.03.2024 2:13:57	RoC is exiting; graceful shutdown.
+21.03.2024 18:42:44	C:\xclusive_server\ragemp-server.exe is not running
+21.03.2024 18:42:44	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.03.2024 18:42:44	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.03.2024 18:42:45	C:\xclusive_server\ragemp-server.exe has recovered
+22.03.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+22.03.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+22.03.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+22.03.2024 4:15:13	C:\xclusive_server\ragemp-server.exe has recovered
+23.03.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+23.03.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.03.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.03.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+23.03.2024 17:41:16	C:\xclusive_server\ragemp-server.exe is not running
+23.03.2024 17:41:16	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.03.2024 17:41:16	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.03.2024 17:41:17	C:\xclusive_server\ragemp-server.exe has recovered
+23.03.2024 19:44:30	C:\xclusive_server\ragemp-server.exe is not running
+23.03.2024 19:44:30	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.03.2024 19:44:30	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.03.2024 19:44:31	C:\xclusive_server\ragemp-server.exe has recovered
+24.03.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+24.03.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.03.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.03.2024 4:15:13	C:\xclusive_server\ragemp-server.exe has recovered
+25.03.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+25.03.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+25.03.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+25.03.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+26.03.2024 4:15:18	C:\xclusive_server\ragemp-server.exe is not running
+26.03.2024 4:15:18	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+26.03.2024 4:15:18	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+26.03.2024 4:15:19	C:\xclusive_server\ragemp-server.exe has recovered
+27.03.2024 4:15:16	C:\xclusive_server\ragemp-server.exe is not running
+27.03.2024 4:15:16	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+27.03.2024 4:15:16	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+27.03.2024 4:15:18	C:\xclusive_server\ragemp-server.exe has recovered
+28.03.2024 4:15:17	C:\xclusive_server\ragemp-server.exe is not running
+28.03.2024 4:15:17	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+28.03.2024 4:15:17	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+28.03.2024 4:15:18	C:\xclusive_server\ragemp-server.exe has recovered
+29.03.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+29.03.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+29.03.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+29.03.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+30.03.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+30.03.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+30.03.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+30.03.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+31.03.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+31.03.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+31.03.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+31.03.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+01.04.2024 4:15:10	C:\xclusive_server\ragemp-server.exe is not running
+01.04.2024 4:15:10	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+01.04.2024 4:15:10	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+01.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe has recovered
+02.04.2024 4:15:20	C:\xclusive_server\ragemp-server.exe is not running
+02.04.2024 4:15:20	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+02.04.2024 4:15:20	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+02.04.2024 4:15:22	C:\xclusive_server\ragemp-server.exe has recovered
+03.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+03.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+03.04.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+03.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+04.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+04.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+04.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+04.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+04.04.2024 17:45:25	C:\xclusive_server\ragemp-server.exe is not running
+04.04.2024 17:45:25	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+04.04.2024 17:45:25	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+04.04.2024 17:45:26	C:\xclusive_server\ragemp-server.exe has recovered
+05.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+05.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+05.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+05.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+08.04.2024 14:45:51	C:\xclusive_server\ragemp-server.exe is not running
+08.04.2024 14:45:51	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+08.04.2024 14:45:51	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+08.04.2024 14:45:52	C:\xclusive_server\ragemp-server.exe has recovered
+09.04.2024 4:15:11	C:\xclusive_server\ragemp-server.exe is not running
+09.04.2024 4:15:11	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+09.04.2024 4:15:11	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+09.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe has recovered
+10.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+10.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+10.04.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+10.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+11.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+11.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+11.04.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+11.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+12.04.2024 4:15:16	C:\xclusive_server\ragemp-server.exe is not running
+12.04.2024 4:15:16	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+12.04.2024 4:15:16	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+12.04.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+13.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+13.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+13.04.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+13.04.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+14.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+14.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.04.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.04.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+14.04.2024 16:45:30	C:\xclusive_server\ragemp-server.exe is not running
+14.04.2024 16:45:30	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.04.2024 16:45:30	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.04.2024 16:45:32	C:\xclusive_server\ragemp-server.exe has recovered
+14.04.2024 17:50:03	C:\xclusive_server\ragemp-server.exe is not running
+14.04.2024 17:50:03	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.04.2024 17:50:03	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.04.2024 17:50:05	C:\xclusive_server\ragemp-server.exe has recovered
+14.04.2024 18:05:07	C:\xclusive_server\ragemp-server.exe is not running
+14.04.2024 18:05:07	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.04.2024 18:05:07	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.04.2024 18:05:09	C:\xclusive_server\ragemp-server.exe has recovered
+14.04.2024 18:10:42	C:\xclusive_server\ragemp-server.exe is not running
+14.04.2024 18:10:42	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.04.2024 18:10:42	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.04.2024 18:10:43	C:\xclusive_server\ragemp-server.exe has recovered
+15.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+15.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+15.04.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+15.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+16.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+16.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+16.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+16.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+17.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+17.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.04.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+17.04.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+17.04.2024 17:31:52	C:\xclusive_server\ragemp-server.exe is not running
+17.04.2024 17:31:52	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.04.2024 17:31:52	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+17.04.2024 17:31:53	C:\xclusive_server\ragemp-server.exe has recovered
+17.04.2024 19:06:00	C:\xclusive_server\ragemp-server.exe is not running
+17.04.2024 19:06:00	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.04.2024 19:06:00	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+17.04.2024 19:06:01	C:\xclusive_server\ragemp-server.exe has recovered
+18.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+18.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+18.04.2024 14:40:30	C:\xclusive_server\ragemp-server.exe is not running
+18.04.2024 14:40:30	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.04.2024 14:40:30	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.04.2024 14:40:31	C:\xclusive_server\ragemp-server.exe has recovered
+18.04.2024 15:07:52	C:\xclusive_server\ragemp-server.exe is not running
+18.04.2024 15:07:52	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.04.2024 15:07:52	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.04.2024 15:07:54	C:\xclusive_server\ragemp-server.exe has recovered
+18.04.2024 15:23:06	C:\xclusive_server\ragemp-server.exe is not running
+18.04.2024 15:23:06	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.04.2024 15:23:06	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.04.2024 15:23:08	C:\xclusive_server\ragemp-server.exe has recovered
+18.04.2024 15:53:47	C:\xclusive_server\ragemp-server.exe is not running
+18.04.2024 15:53:47	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.04.2024 15:53:47	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.04.2024 15:53:48	C:\xclusive_server\ragemp-server.exe has recovered
+18.04.2024 16:05:50	C:\xclusive_server\ragemp-server.exe is not running
+18.04.2024 16:05:50	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.04.2024 16:05:50	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.04.2024 16:05:51	C:\xclusive_server\ragemp-server.exe has recovered
+19.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+19.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+19.04.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+19.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+20.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+20.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+20.04.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+20.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+21.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+21.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+22.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+22.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+22.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+22.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+23.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+23.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.04.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+24.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe is not running
+24.04.2024 4:15:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.04.2024 4:15:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+25.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+25.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+25.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+25.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+26.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+26.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+26.04.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+26.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+27.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+27.04.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+27.04.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+27.04.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+27.04.2024 18:20:19	C:\xclusive_server\ragemp-server.exe is not running
+27.04.2024 18:20:19	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+27.04.2024 18:20:19	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+27.04.2024 18:20:20	C:\xclusive_server\ragemp-server.exe has recovered
+28.04.2024 4:15:11	C:\xclusive_server\ragemp-server.exe is not running
+28.04.2024 4:15:11	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+28.04.2024 4:15:11	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+28.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe has recovered
+29.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+29.04.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+29.04.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+29.04.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+30.04.2024 4:15:10	C:\xclusive_server\ragemp-server.exe is not running
+30.04.2024 4:15:10	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+30.04.2024 4:15:10	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+30.04.2024 4:15:11	C:\xclusive_server\ragemp-server.exe has recovered
+30.04.2024 17:52:40	C:\xclusive_server\ragemp-server.exe is not running
+30.04.2024 17:52:40	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+30.04.2024 17:52:40	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+30.04.2024 17:52:41	C:\xclusive_server\ragemp-server.exe has recovered
+01.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+01.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+01.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+01.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+02.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+02.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+02.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+02.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+03.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+03.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+03.05.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+03.05.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+04.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+04.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+04.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+04.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+05.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+05.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+05.05.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+05.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+06.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+06.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+06.05.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+06.05.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+07.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+07.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+07.05.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+07.05.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+08.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+08.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+08.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+08.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+09.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+09.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+09.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+09.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+10.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+10.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+10.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+10.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+11.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+11.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+11.05.2024 4:15:16	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+11.05.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+12.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+12.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+12.05.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+12.05.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+12.05.2024 18:33:32	C:\xclusive_server\ragemp-server.exe is not running
+12.05.2024 18:33:32	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+12.05.2024 18:33:32	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+12.05.2024 18:33:34	C:\xclusive_server\ragemp-server.exe has recovered
+13.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+13.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+13.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+13.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+14.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+14.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+15.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+15.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+15.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+15.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+16.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+16.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+16.05.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+16.05.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+17.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+17.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+17.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+18.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+18.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+19.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+19.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+19.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+19.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+20.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+20.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+20.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+20.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+21.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+21.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+22.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+22.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+22.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+22.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+23.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+23.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+24.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+24.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+25.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+25.05.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+25.05.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+25.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+26.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+26.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+26.05.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+26.05.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+27.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+27.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+27.05.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+27.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+28.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+28.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+28.05.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+28.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+29.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+29.05.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+29.05.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+29.05.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+30.05.2024 4:15:20	C:\xclusive_server\ragemp-server.exe is not running
+30.05.2024 4:15:20	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+30.05.2024 4:15:20	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+30.05.2024 4:15:22	C:\xclusive_server\ragemp-server.exe has recovered
+31.05.2024 4:15:16	C:\xclusive_server\ragemp-server.exe is not running
+31.05.2024 4:15:16	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+31.05.2024 4:15:16	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+31.05.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+01.06.2024 4:15:17	C:\xclusive_server\ragemp-server.exe is not running
+01.06.2024 4:15:17	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+01.06.2024 4:15:17	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+01.06.2024 4:15:19	C:\xclusive_server\ragemp-server.exe has recovered
+02.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+02.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+02.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+02.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+03.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+03.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+03.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+03.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+04.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+04.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+04.06.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+04.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+05.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+05.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+05.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+05.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+06.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+06.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+06.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+06.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+07.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+07.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+07.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+07.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+08.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+08.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+08.06.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+08.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+09.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+09.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+09.06.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+09.06.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+10.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+10.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+10.06.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+10.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+11.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe is not running
+11.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+11.06.2024 4:15:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+11.06.2024 4:15:17	C:\xclusive_server\ragemp-server.exe has recovered
+12.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+12.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+12.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+12.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+12.06.2024 13:38:12	C:\xclusive_server\ragemp-server.exe is not running
+12.06.2024 13:38:12	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+12.06.2024 13:38:12	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+12.06.2024 13:38:14	C:\xclusive_server\ragemp-server.exe has recovered
+12.06.2024 13:42:10	C:\xclusive_server\ragemp-server.exe is not running
+12.06.2024 13:42:10	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+12.06.2024 13:42:10	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+12.06.2024 13:42:11	C:\xclusive_server\ragemp-server.exe has recovered
+13.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+13.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+13.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+13.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+13.06.2024 22:29:33	C:\xclusive_server\ragemp-server.exe is not running
+13.06.2024 22:29:33	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+13.06.2024 22:29:33	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+13.06.2024 22:29:35	C:\xclusive_server\ragemp-server.exe has recovered
+14.06.2024 4:15:10	C:\xclusive_server\ragemp-server.exe is not running
+14.06.2024 4:15:10	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+14.06.2024 4:15:10	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+14.06.2024 4:15:11	C:\xclusive_server\ragemp-server.exe has recovered
+15.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+15.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+15.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+15.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+16.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+16.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+16.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+16.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+17.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+17.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+17.06.2024 4:15:15	C:\xclusive_server\ragemp-server.exe has recovered
+17.06.2024 23:09:08	C:\xclusive_server\ragemp-server.exe is not running
+17.06.2024 23:09:08	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.06.2024 23:09:08	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+17.06.2024 23:09:10	C:\xclusive_server\ragemp-server.exe has recovered
+17.06.2024 23:09:24	Not responding: [PID: 00000CA8] C:\xclusive_server\ragemp-server.exe
+17.06.2024 23:09:24	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+17.06.2024 23:09:25	C:\xclusive_server\ragemp-server.exe has recovered
+18.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+18.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+18.06.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+18.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+19.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+19.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+19.06.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+19.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+20.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+20.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+20.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+20.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered
+20.06.2024 18:19:43	C:\xclusive_server\ragemp-server.exe is not running
+20.06.2024 18:19:43	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+20.06.2024 18:19:43	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+20.06.2024 18:19:44	C:\xclusive_server\ragemp-server.exe has recovered
+21.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+21.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.06.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+21.06.2024 20:54:04	C:\xclusive_server\ragemp-server.exe is not running
+21.06.2024 20:54:04	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+21.06.2024 20:54:04	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+21.06.2024 20:54:06	C:\xclusive_server\ragemp-server.exe has recovered
+22.06.2024 4:15:11	C:\xclusive_server\ragemp-server.exe is not running
+22.06.2024 4:15:11	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+22.06.2024 4:15:11	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+22.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe has recovered
+23.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+23.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.06.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+23.06.2024 19:20:45	C:\xclusive_server\ragemp-server.exe is not running
+23.06.2024 19:20:45	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+23.06.2024 19:20:45	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+23.06.2024 19:20:46	C:\xclusive_server\ragemp-server.exe has recovered
+24.06.2024 4:15:11	C:\xclusive_server\ragemp-server.exe is not running
+24.06.2024 4:15:11	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.06.2024 4:15:11	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe has recovered
+24.06.2024 15:53:46	C:\xclusive_server\ragemp-server.exe is not running
+24.06.2024 15:53:46	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.06.2024 15:53:46	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.06.2024 15:53:48	C:\xclusive_server\ragemp-server.exe has recovered
+24.06.2024 21:46:33	C:\xclusive_server\ragemp-server.exe is not running
+24.06.2024 21:46:33	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.06.2024 21:46:33	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.06.2024 21:46:34	C:\xclusive_server\ragemp-server.exe has recovered
+24.06.2024 22:36:35	C:\xclusive_server\ragemp-server.exe is not running
+24.06.2024 22:36:35	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+24.06.2024 22:36:35	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+24.06.2024 22:36:37	C:\xclusive_server\ragemp-server.exe has recovered
+25.06.2024 4:15:10	C:\xclusive_server\ragemp-server.exe is not running
+25.06.2024 4:15:10	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+25.06.2024 4:15:10	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+25.06.2024 4:15:11	C:\xclusive_server\ragemp-server.exe has recovered
+26.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe is not running
+26.06.2024 4:15:13	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+26.06.2024 4:15:13	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+26.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe has recovered
+26.06.2024 14:10:15	C:\xclusive_server\ragemp-server.exe is not running
+26.06.2024 14:10:15	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+26.06.2024 14:10:15	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+26.06.2024 14:10:16	C:\xclusive_server\ragemp-server.exe has recovered
+27.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe is not running
+27.06.2024 4:15:14	C:\xclusive_server\ragemp-server.exe will be treated as crashed/hanged
+27.06.2024 4:15:14	Executing a command : "C:\xclusive_server\ragemp-server.exe"
+27.06.2024 4:15:16	C:\xclusive_server\ragemp-server.exe has recovered

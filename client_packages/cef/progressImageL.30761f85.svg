@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 458" width="66" height="458">
+	<defs>
+		<image  width="17" height="45" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAtCAMAAAB/C3AeAAAAAXNSR0IB2cksfwAAATVQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////bwFteAAAAGd0Uk5TADVACSH//ncm3/U2dp1p9vhKfM/N+RjwObzmOlEg4jcXwLs0JesVGQ6AexEChlpOdVwqjZk98rgH/ORwTL5n2GJr1PETQk2hKLHTAaAK+8zabScNnvMQmq0Wzl6uMQRVtTA4tNuzBX8XstgAAAFwSURBVHictZHtK8NRFMe/X79hPw9FQ5bUXggvJnl+aDaGRFMaQmn8Y8sLKQ9FkoQ8bS1EVouXXqxJQov1M5Y0d/PQfr9R3rgv7j33c88533PuIUh8r3jGG6hLARDPMerfUgl0zxofZEaJ3Gdh5MSgf0Ieo7kPnx6FCvLDgCGiJUWPBXe/khKGDTeA8b74+kupjFdiLyeDau1kkenEpOnikhVBlYeJWmKUWa2JuviTFsxU8gPCkswkzxKkIYDaU6CJfoHrecRKwymyFUgtJ8mYZh8tx2j1AtbDjyztB+z0wbIH2L3o8JRWeWBj3TnkCHr3ga4t9O2imxkSejYkmxe9XIdjEzUc5AYGxAWOFTh94f5MYmQ1mXKIixhbxvA8McGlRKWjc8DkAsZnRRcuvsjHrTMCu3TboR/7SiPq/0FIoXNNRcQE08nnLK7QeJM47e6vLFlx645a6x+I6fY1pZwpd1w795w2LZkmJbk8Bej9eAf4/246d4gIWgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { display: none;fill: #ffffff } 
+		.s1 { opacity: .1;fill: #ffffff } 
+		.s2 { opacity: .3;fill: #ffffff } 
+		.s3 { opacity: .8;fill: #ffffff } 
+		.s4 { opacity: .2;fill: #ffffff } 
+	</style>
+	<path class="s0" d="m64.2 56.2q0 1.65-1.12 2.78-1.12 1.14-2.72 1.14-1.6 0-2.72-1.14-1.12-1.13-1.12-2.78v-1.68h-3.52v-2.56h11.2zm-5.28 0q0 0.59 0.42 0.98 0.41 0.38 1.02 0.38 0.61 0 1.02-0.38 0.42-0.39 0.42-0.98v-1.68h-2.88zm-5.92 5.84h11.2v2.56h-3.52v1.68q0 1.65-1.12 2.78-1.12 1.14-2.72 1.14-1.6 0-2.72-1.14-1.12-1.13-1.12-2.78zm0 9.12h11.2v2.56h-11.2zm2.4-6.56v1.68q0 0.59 0.42 0.97 0.41 0.39 1.02 0.39 0.61 0 1.02-0.39 0.42-0.38 0.42-0.97v-1.68zm4.64 15.99q0 1.73-0.98 2.79-0.96 1.05-2.54 1.05-1.58 0-2.56-1.05-0.96-1.06-0.96-2.79v-4.32h11.2v7.2h-2.46v-4.64h-1.7zm-4.64 0q0 1.28 1.12 1.28 1.12 0 1.12-1.28v-1.76h-2.24zm-2.4 12.57l1.76-0.56v-4.16l-1.76-0.56v-2.8l11.2 3.8v3.27l-11.2 3.81zm4.16-3.96v2.63l4.11-1.31z"/>
+	<use id="FISH" href="#img1" x="48" y="51"/>
+	<path fill-rule="evenodd" class="s1" d="m14 0h20v404h-20z"/>
+	<path fill-rule="evenodd" class="s2" d="m14 20h20v108h-20z"/>
+	<path fill-rule="evenodd" class="s3" d="m6 382h34v2h-34z"/>
+	<path fill-rule="evenodd" class="s3" d="m6 201h34v2h-34z"/>
+	<path fill-rule="evenodd" class="s3" d="m6 128h34v2h-34z"/>
+	<path fill-rule="evenodd" class="s3" d="m6 18h34v2h-34z"/>
+	<path fill-rule="evenodd" class="s4" d="m23 458c-12.72 0-23-10.28-23-23 0-12.72 10.28-23 23-23 12.72 0 23 10.28 23 23 0 12.72-10.28 23-23 23z"/>
+</svg>

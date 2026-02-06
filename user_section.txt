@@ -1,0 +1,101 @@
+﻿    get reloadCurrentWeapon(){
+        return this.weaponClass.reloadCurrentWeapon
+    }
+
+    get currentWeaponSync(){
+        return this.weaponClass.currentWeaponSync
+    }
+
+
+
+    get hotkeys(): [number, number, number, number, number] {
+        const data: number[] = JSON.parse(this.entity.hotkeys);
+        if (data.length !== 5) return [data[0], data[1], data[2], data[3], data[4]]
+        return JSON.parse(this.entity.hotkeys)
+    }
+
+    set hotkeys(param) {
+        this.entity.hotkeys = JSON.stringify(param)
+    }
+
+    get partner() {
+        return this.entity.partnerId
+    }
+    set partner(val) {
+        this.entity.partnerId = val;
+        this.save();
+    }
+
+    get password() {
+        return this.account.password
+    }
+
+    newPassword(password: string){
+        this.account.password = account.hashPassword(password);
+        this.account.save();
+    }
+
+    setPartner = (val: UserEntity) => {
+        this.entity.partner = val
+        this.save();
+    }
+
+    get social_number() {
+        return this.entity.social_number
+    }
+
+    set social_number(param) {
+        this.entity.social_number = param
+        this.save();
+    }
+
+    /** Персонаж использует стоковую модель. Нужно для всяких проверок на одежду и т.д. */
+    get mp_character() {
+        if (!this.exists) return false;
+        if (this.male) return true;
+        if (this.feemale) return true;
+        return false
+    }
+
+
+    /** Является ли персонаж мужским */
+    get is_male() {
+        if (!this.exists) return 0;
+        if (this.player.model == mp.joaat('mp_m_freemode_01')) return 1;
+        return 0
+    }
+
+    /** Является ли персонаж мужским */
+    get male() {
+        if (!this.exists) return false;
+        if (this.player.model == mp.joaat('mp_m_freemode_01')) return true;
+        return false
+    }
+
+    /** Является ли персонаж женским */
+    get feemale() {
+        if (!this.exists) return false;
+        if (this.player.model == mp.joaat('mp_f_freemode_01')) return true;
+        return false
+    }
+
+    get isDriver() {
+        if (!this.exists) return false;
+        if (!this.player.vehicle) return false;
+        if (this.player.seat) return false;
+        return true
+    }
+
+    get jail_time() {
+        return this.entity.jail_time;
+    }
+
+    set jail_time(value: number) {
+        this.entity.jail_time = value;
+    }
+
+    get jail_reason() {
+        return this.entity.jail_reason;
+    }
+
+    set jail_reason(value) {
