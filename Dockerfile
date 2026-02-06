@@ -10,7 +10,7 @@ WORKDIR /source/
 
 RUN chmod +x /source/install.sh
 RUN /source/install.sh
-RUN npm i
+RUN npm i --legacy-peer-deps
 
 
 CMD [ "/bin/sh", "-c", "systemctl start nginx && node /source/bundle/index.js" ]
